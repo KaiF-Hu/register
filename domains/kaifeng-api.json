@@ -1,0 +1,10 @@
+{
+  "description": "Kaifeng Hu portfolio blog backend API",
+  "repo": "https://github.com/KaiF-Hu/portfolio-blog-api",
+  "owner": {
+    "username": "KaiF-Hu"
+  },
+  "record": {
+    "CNAME": "portfolio-blog-api-nine.vercel.app"
+  }
+}
