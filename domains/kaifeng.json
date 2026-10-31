@@ -1,0 +1,6 @@
+{
+  "description": "Kaifeng Hu portfolio blog",
+  "repo": "https://github.com/KaiF-Hu/portfolio-blog-client",
+  "owner": { "username": "KaiF-Hu" },
+  "record": { "CNAME": "portfolio-blog-client.vercel.app" }
+}
